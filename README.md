@@ -1,8 +1,13 @@
-# Introduction 
-- Quan Hoang Ngoc
-- Kaggle Competition after take part in Andrew Ng ML courses
+# Introduction
+
+- **Quan Hoang Ngoc**
+- **Kaggle Competition after Completing Andrew Ng's ML Courses**
 - _Summer Time_, 2023
-### about 
-- The project for an [Kaggle competition]. This is my first self-practice project on Kaggle after I take part in [Professor Andrew's] basic ML course.
-### show-off
-- [Kaggle ranking](https://www.kaggle.com/competitions/spaceship-titanic/leaderboard)
+
+### About
+
+- **Kaggle Competition Project**: Engage in my inaugural self-practice project on Kaggle, centered around a [Kaggle competition], following completion of [Professor Andrew Ng's] foundational ML course.
+
+### Show-off
+
+- Explore my [Kaggle ranking](https://www.kaggle.com/competitions/spaceship-titanic/leaderboard) and journey through the competition results.
