@@ -7,7 +7,7 @@
 - **Date**: Summer 2023
 
 ### 📚 About
-This repository hosts my inaugural self-practice project on Kaggle, inspired by the foundational teachings of [Professor Andrew Ng](https://www.coursera.org/learn/machine-learning). The aim of this project is to participate in the [Spaceship Titanic competition](https://www.kaggle.com/competitions/spaceship-titanic) and to apply the machine learning skills acquired through the course.
+This repository hosts my inaugural self-practice project on Kaggle, inspired by the foundational teachings of **[Professor Andrew Ng](https://www.coursera.org/learn/machine-learning)**. The aim of this project is to participate in the **[Spaceship Titanic competition](https://www.kaggle.com/competitions/spaceship-titanic)** and to apply the machine learning skills acquired through the course.
 
 ### 🤔 What is it?
 This project involves predicting which passengers survived the Spaceship Titanic disaster. Utilizing various machine learning techniques, I analyze data to develop and evaluate models, ultimately contributing to a competitive ranking on Kaggle.
